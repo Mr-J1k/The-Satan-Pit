@@ -1,0 +1,11 @@
+{
+  "id": "sycophant",
+  "edition": "custom",
+  "reminders": [
+    "Learnt Minion ability"
+],
+"name": "Sycophant",
+"team": "outsider",
+"ability": "If you nominate & get a minion executed, you gain their ability & alignment.",
+"flavor": "I serve the strongest and the most influential."
+}
