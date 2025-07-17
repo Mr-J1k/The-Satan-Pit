@@ -1,0 +1,13 @@
+{
+  "id": "puppet",
+  "edition": "custom",
+  "reminders": [
+    "Poisoned",
+    "Poisoned",
+    "Poisoned",
+],
+"name": "Puppet",
+"team": "minion",
+"ability": "Each night, a puppet might choose a player. They are poisoned until dusk. All minions are puppets. [+1 Outsider]"
+"flavor": "We do as our master commands. Our master pulls our strings and commands us... to destroy you."
+}
