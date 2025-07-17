@@ -1,0 +1,11 @@
+{
+  "id": "slacker",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Slacker",
+"team": "townsfolk",
+"ability": "You start knowing the number of steps from you to the nearest outsider.",
+"flavor": "... Let me sleep please..."
+}
