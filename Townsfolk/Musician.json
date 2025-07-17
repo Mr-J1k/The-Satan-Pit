@@ -1,1 +1,11 @@
-
+{
+  "id": "Musician",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Musician",
+"team": "townsfolk",
+"ability": "Each day, visit the storyteller and learn one statement connected to the demon.",
+"flavor": "What beautiful tunes. A symphony of... death."
+}
