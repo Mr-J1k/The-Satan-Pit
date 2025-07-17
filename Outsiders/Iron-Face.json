@@ -1,0 +1,11 @@
+{
+  "id": "iron face",
+  "edition": "custom",
+  "reminders": [
+    "Drunk"
+],
+"name": "Iron-Face",
+"team": "outsider",
+"ability": "If you get executed, a good player is drunk. Your team can't win. [+0/+1 Iron-face]",
+"flavor": "Ahhhhhh, hurrrrghhh!"
+}
