@@ -1,0 +1,11 @@
+{
+  "id": "bastion",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Bastion",
+"team": "townsfolk",
+"ability": "Each night*, choose a player. If you are the same alignment, you can’t die until dawn.",
+"flavor": "While my friends are by my side, I will never fall!"
+}
