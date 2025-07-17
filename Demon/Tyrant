@@ -1,0 +1,12 @@
+{
+  "id": "tyrant",
+  "edition": "custom",
+  "reminders": [
+    "Dead",
+    "Has minion ability"
+],
+"name": "Tyrant",
+"team": "demon",
+"ability": "Each night*, choose a player; they die. If your minions get nominated & executed by a good player, you gain the minion ability. [+?/-? Outsiders]"
+"flavor": "You useless little toads! Guess I have to do everything around here."
+}
