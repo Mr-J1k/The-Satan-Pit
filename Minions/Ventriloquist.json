@@ -1,0 +1,12 @@
+{
+  "id": "ventriloquist",
+  "edition": "custom",
+  "reminders": [
+    "Mad",
+    "Poisoned",
+],
+"name": "Ventriloquist",
+"team": "minion",
+"ability": "Each night, choose a good player; until dusk, if they are not “mad” that something (to their knowledge) false is true, a player might be poisoned."
+"flavor": "1 + 1 is 3. Isn't it? Come on, you have to believe me. It's what my friend Scarface says.."
+}
