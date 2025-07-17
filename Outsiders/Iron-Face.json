@@ -6,6 +6,7 @@
 ],
 "name": "Iron-Face",
 "team": "outsider",
+"setup": true,  
 "ability": "If you get executed, a good player is drunk. Your team can't win. [+0/+1 Iron-face]",
 "flavor": "Ahhhhhh, hurrrrghhh!"
 }
