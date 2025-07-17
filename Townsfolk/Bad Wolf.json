@@ -1,1 +1,11 @@
-
+{
+  "id": "bad wolf",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Bad Wolf",
+"team": "townsfolk",
+"ability": "Each night*, you learn the number of players who chose other players to die tonight.",
+"flavor": "Are you afraid of the big, bad wolf?"
+}
