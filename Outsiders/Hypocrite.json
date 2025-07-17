@@ -1,0 +1,11 @@
+{
+  "id": "hypocrite",
+  "edition": "custom",
+  "reminders": [
+    "Drunk Town"
+],
+"name": "Hypocrite",
+"team": "outsider",
+"ability": "If you die, all townsfolk are drunk until dusk.",
+"flavor": "Of course I'm telling the truth, I would never lie. Never..."
+}
