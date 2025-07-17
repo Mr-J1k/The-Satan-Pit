@@ -6,6 +6,7 @@
 ],
 "name": "Puppet-Master",
 "team": "demon",
+"setup": true,  
 "ability": "Each night*, choose a player; they die. You may choose to see the grimoire. If you do, no dies tonight. [+?/-? Townsfolk, Outsiders, Minions]",
 "flavor": "I pull all the strings. Every single one. Even yours..."
 }
