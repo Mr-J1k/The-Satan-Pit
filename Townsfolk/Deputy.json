@@ -1,0 +1,12 @@
+{
+  "id": "deputy",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Robber",
+"team": "townsfolk",
+"setup": true,  
+"ability": "While you are alive, you & the Sheriff are always healthy. The Sheriff can’t die at night. [+ the Sheriff]",
+"flavor": "I hereby deputize you as a deputy sheriff of Ravenswood Bluff."
+}
