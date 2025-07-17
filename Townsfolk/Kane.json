@@ -1,1 +1,11 @@
-
+{
+  "id": "kane",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Kane",
+"team": "townsfolk",
+"ability": "You start knowing how many players opened their eyes on the 1st night.",
+"flavor": "Yeah, keep those eyes open."
+}
