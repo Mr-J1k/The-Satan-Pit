@@ -1,0 +1,11 @@
+{
+  "id": "sergeant",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Sergeant",
+"team": "townsfolk",
+"ability": "You start knowing which direction the most critical information will come from.",
+"flavor": "Do you think that's wise sir?"
+}
