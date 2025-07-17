@@ -1,0 +1,11 @@
+{
+  "id": "father",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Father",
+"team": "townsfolk",  
+"ability": "While you are alive, there can be only one death in the night. If the demon chooses you, exactly 3 players die tonight.",
+"flavor": "My son is not a monster, he's just misunderstood."
+}
