@@ -1,0 +1,13 @@
+{
+  "id": "sheriff",
+  "edition": "custom",
+  "reminders": [
+    "Learnt",
+    "Guess",
+    "Dead"
+],
+"name": "Sheriff",
+"team": "townsfolk",
+"ability": "You start knowing a character. Each day, if you correctly guess the character's player, you learn a new character tonight. If you guess wrong, a player might die.",
+"flavor": "I will do my duty and protect the town, no matter the cost."
+}
