@@ -1,0 +1,11 @@
+{
+  "id": "fumbler",
+  "edition": "custom",
+  "reminders": [
+    "No ability"
+],
+"name": "Fumbler",
+"team": "outsider",
+"ability": "Once per game, a player that can't die, dies instead.",
+"flavor": "I'm so sorry. I mean no harm, I'm just... clumsy."
+}
