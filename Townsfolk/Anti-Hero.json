@@ -1,0 +1,11 @@
+{
+  "id": "anti-hero",
+  "edition": "custom",
+  "reminders": [
+    
+],
+"name": "Anti-Hero",
+"team": "townsfolk",
+"ability": "Each night*, you may choose a player. If they are evil, the demon does not kill tonight. If they are good, one more death might occur tonight.",
+"flavor": "My methods may be questionable but my intentions are always good... Mostly."
+}
