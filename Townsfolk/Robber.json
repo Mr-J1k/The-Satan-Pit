@@ -1,0 +1,11 @@
+{
+  "id": "robber",
+  "edition": "custom",
+  "reminders": [
+    "Drunk",
+],
+"name": "Robber",
+"team": "townsfolk",
+"ability": "If a townsfolk ability targets you, that player is drunk and you gain their ability tonight. You must use it immediately.",
+"flavor": "What a nice watch you have. Mind if I... borrow it?"
+}
