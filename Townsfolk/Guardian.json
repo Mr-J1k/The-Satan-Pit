@@ -1,0 +1,11 @@
+{
+  "id": "guardian",
+  "edition": "custom",
+  "reminders": [
+    "Requested"
+],
+"name": "Guardian",
+"team": "townsfolk",
+"ability": "Each day, you may visit the storyteller & request a certain player not be executed today. This request might be rejected.",
+"flavor": "Objection... overruled."
+}
